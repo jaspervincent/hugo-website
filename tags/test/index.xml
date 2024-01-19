@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on hugo-website</title>
+    <link>/tags/test/</link>
+    <description>Recent content in Test on hugo-website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2021 03:29:09 +0800</lastBuildDate>
+    <atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>/2019/12/18/test.html</link>
+      <pubDate>Thu, 28 Jan 2021 03:29:09 +0800</pubDate>
+      <guid>/2019/12/18/test.html</guid>
+      <description>hello world </description>
+    </item>
+    <item>
+      <title>Second page</title>
+      <link>/note/1999/06/13/a-quick-note/</link>
+      <pubDate>Sun, 13 Jun 1999 00:00:00 +0000</pubDate>
+      <guid>/note/1999/06/13/a-quick-note/</guid>
+      <description>Second </description>
+    </item>
+  </channel>
+</rss>
